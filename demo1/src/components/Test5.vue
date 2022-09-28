@@ -16,7 +16,7 @@
 export default {
   methods: {
     go(){
-      document.getElementById("test4").scrollIntoView({ behavior: 'smooth' });
+      document.getElementById("test6").scrollIntoView({ behavior: 'smooth' });
     },
     init() {
       window.requestAnimFrame = (function () {
